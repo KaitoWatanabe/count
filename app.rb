@@ -24,3 +24,6 @@ post '/plus' do
   count.save
   redirect '/count'
 end
+
+post '/minus' do
+end
